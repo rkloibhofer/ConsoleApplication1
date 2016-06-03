@@ -15,8 +15,6 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
             Console.WriteLine("feature branch 1");
             Console.WriteLine("make a second output");
-
-            Console.WriteLine("Master Branch output");
         }
     }
 }
