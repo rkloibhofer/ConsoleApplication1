@@ -11,7 +11,11 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+<<<<<<< HEAD
             Console.WriteLine("feature branch 1");
+=======
+            //Test Raphael Stamminger
+>>>>>>> origin/master
         }
     }
 }
