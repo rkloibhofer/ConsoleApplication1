@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             /// to learn more about github 
             Console.WriteLine("Hello World");
             Console.WriteLine("feature branch 1");
+            Console.WriteLine("make a second output");
         }
     }
 }
