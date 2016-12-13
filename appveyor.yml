@@ -1,0 +1,9 @@
+configuration | release
+
+# restore nuget packages before running MSBuild
+before_build|
+   - nuget restore
+# Package Web Application Project for Web Deploy
+build|
+verbosity| minimal
+public_wap| true
